@@ -1,0 +1,1653 @@
+{
+  "Timestamp": "2025-06-24T08:15:57.0311079Z",
+  "Content": [
+    {
+      "name": "C\u01A1m G\u00E0 X\u00F4i M\u1EAFm C\u00F2n",
+      "address": "46 L\u1EA1c Trung, P. Thanh L\u01B0\u01A1ng, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/com-ga-xoi-mam-con",
+      "type": "shopee",
+      "id": 49,
+      "lat-lon": "21.00322100498344, 105.8625704980143"
+    },
+    {
+      "name": "Nh\u00E0 Gi\u1EEFa - B\u00E1nh \u0110a Tr\u1ED9n",
+      "address": "21 Ng\u00F5 38 Th\u1ECD L\u00E3o, P. \u0110\u00F4ng M\u00E1c, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/nha-giua-banh-da-tron",
+      "type": "shopee",
+      "id": 50,
+      "lat-lon": "21.01195570103973, 105.85747177363747"
+    },
+    {
+      "name": "B\u00FAn \u1ED0c H\u00E0 Huy T\u1EADp",
+      "address": "167 H\u1ED3ng Mai, P. Qu\u1EF3nh L\u00F4i, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bun-oc-ha-huy-tap",
+      "type": "shopee",
+      "id": 51,
+      "lat-lon": "20.999041092466708, 105.85524566781488"
+    },
+    {
+      "name": "Qu\u00E1n H\u1EBFn - M\u00EC Indomie, Kimbap \u0026 Tr\u00E0 S\u1EEFa",
+      "address": "70 Ng\u00F5 204 H\u1ED3ng Mai, P. Qu\u1EF3nh L\u00F4i, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/quan-hen-mi-indomie-kimbap-tra-sua",
+      "type": "shopee",
+      "id": 52,
+      "lat-lon": "20.998573090901356, 105.85610922548598"
+    },
+    {
+      "name": "Th\u1EA3o M\u1EADp - \u0110\u1ED3 \u0102n H\u00E0n Qu\u1ED1c \u0026 M\u00EC Indomie",
+      "address": "4 Ng\u00F5 107 H\u1ED3ng Mai, P. Qu\u1EF3nh L\u00F4i, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/thao-map-do-an-han-quoc-mi-indomie",
+      "type": "shopee",
+      "id": 53,
+      "lat-lon": "20.999261936690818, 105.85384849295279"
+    },
+    {
+      "name": "B\u00FAn Ch\u1EA3 53",
+      "address": "53 Ph\u1ED1 V\u1ECDng, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bun-cha-pho-vong",
+      "type": "shopee",
+      "id": 54,
+      "lat-lon": "20.999456040936707, 105.8418783524727"
+    },
+    {
+      "name": "Nemta - Nem Chua R\u00E1n - V\u00F5 Th\u1ECB S\u00E1u",
+      "address": "76 V\u00F5 Th\u1ECB S\u00E1u, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/nemta-nem-chua-ran-vo-thi-sau",
+      "type": "shopee",
+      "id": 55,
+      "lat-lon": "21.006455202260028, 105.8524135757622"
+    },
+    {
+      "name": "B\u00FAn C\u00E1 \u0026 B\u00E1nh \u0110a Tr\u1ED9n D\u1ED1c Th\u1ECD L\u00E3o Ch\u00EDnh G\u1ED1c",
+      "address": "13/64 D\u1ED1c Th\u1ECD L\u00E3o, P. \u0110\u1ED1ng M\u00E1c, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bun-ca-banh-da-tron-doc-tho-lao-chinh-goc",
+      "type": "shopee",
+      "id": 56,
+      "lat-lon": "21.01195921281767, 105.85744882178868"
+    },
+    {
+      "name": "B\u00FAn \u0110\u1EADu C\u00F4 Lan - Nguy\u1EC5n C\u00F4ng Tr\u1EE9",
+      "address": "69 Nguy\u1EC5n C\u00F4ng Tr\u1EE9, P. Ph\u1ED1 Hu\u1EBF, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bun-dau-co-lan-nguyen-cong-tru",
+      "type": "shopee",
+      "id": 57,
+      "lat-lon": "21.013778329838694, 105.85407562375072"
+    },
+    {
+      "name": "Yum Yum - M\u00EC Tr\u1ED9n Indomie \u0026 \u0102n V\u1EB7t Online",
+      "address": "S\u00E2n Nh\u00E0 D1 Ng\u00F5 10 Ph\u1ED1 8/3, P. Qu\u1EF3nh Mai,, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/yum-yum-mi-tron-indomie-an-vat-online",
+      "type": "shopee",
+      "id": 58,
+      "lat-lon": "20.9990419131606, 105.8598597236372"
+    },
+    {
+      "name": "So Cu\u1ED1n - H\u00E0ng Chu\u1ED1i",
+      "address": "13ABC Ng\u00F5 13 H\u00E0ng Chu\u1ED1i, P. Ph\u1EA1m \u0110\u00ECnh H\u1ED5, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/so-cuon-lo-duc",
+      "type": "shopee",
+      "id": 59,
+      "lat-lon": "21.01806836082049, 105.85719492918389"
+    },
+    {
+      "name": "N\u01B0\u1EDBc \u00C9p Tr\u00E1i C\u00E2y - Hai B\u00E0 Tr\u01B0ng",
+      "address": "72 Hai B\u00E0 Tr\u01B0ng, P. Tr\u1EA7n H\u01B0ng \u0110\u1EA1o, Ho\u00E0n Ki\u1EBFm, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/nuoc-ep-trai-cay-hai-ba-trung",
+      "type": "shopee",
+      "id": 60,
+      "lat-lon": "21.02783442616489, 105.84456816469113"
+    },
+    {
+      "name": "Ti\u1EC7m C\u01A1m 1982 - C\u01A1m V\u0103n Ph\u00F2ng",
+      "address": "131 Tr\u1EA7n \u0110\u1EA1i Ngh\u0129a, P. B\u00E1ch Khoa, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tiem-com-1982-com-van-phong",
+      "type": "shopee",
+      "id": 61,
+      "lat-lon": "21.00230707004873, 105.84507114082813"
+    },
+    {
+      "name": "B\u00E1nh T\u00F4m C\u00F4 Oanh - L\u00EA \u0110\u1EA1i H\u00E0nh",
+      "address": "25 L\u00EA \u0110\u1EA1i H\u00E0nh, P. L\u00EA \u0110\u1EA1i H\u00E0nh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/banh-tom-co-oanh-le-dai-hanh",
+      "type": "shopee",
+      "id": 62,
+      "lat-lon": "21.010446646761327, 105.84932425247304"
+    },
+    {
+      "name": "Tonchan Ramen - M\u00EC Nh\u1EADt",
+      "address": "109 Tri\u1EC7u Vi\u1EC7t V\u01B0\u01A1ng, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tonchan-mi-nhat",
+      "type": "shopee",
+      "id": 63,
+      "lat-lon": "21.01440099432513, 105.85056701199288"
+    },
+    {
+      "name": "Ch\u00E1o S\u01B0\u1EDDn S\u1EE5n 88 - Ch\u00E1o Gia Truy\u1EC1n - Shop Online",
+      "address": "S\u1ED1 3 Ng\u00F5 624 Minh Khai, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/chao-suon-sun-88-chao-gia-truyen-shop-online",
+      "type": "shopee",
+      "id": 64,
+      "lat-lon": "20.999526337843086, 105.87118818102685"
+    },
+    {
+      "name": "Sinh T\u1ED1 \u0026 N\u01B0\u1EDBc \u00C9p 191",
+      "address": "S\u1ED1 15 Ng\u00F5 229 Minh Khai, P. Minh Khai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/sinh-to-nuoc-ep-191",
+      "type": "shopee",
+      "id": 65,
+      "lat-lon": "20.99638637720465, 105.85864362363724"
+    },
+    {
+      "name": "V\u00E2n - Pizza Ngon - Shop Online",
+      "address": "11 Ng\u00E1ch 10, Ng\u00F5 15 H\u01B0\u01A1ng Vi\u00EAn, P. \u0110\u1ED3ng M\u00E1c, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/van-pizza-ngon-shop-online",
+      "type": "shopee",
+      "id": 66,
+      "lat-lon": "21.0129821725141, 105.85738933897964"
+    },
+    {
+      "name": "Tr\u00E0 S\u1EEFa Nh\u1EADt B\u1EA3n MinMax",
+      "address": "77 H\u1ED3ng Mai, P. B\u1EA1ch Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tra-sua-nhat-ban-minmax",
+      "type": "shopee",
+      "id": 67,
+      "lat-lon": "20.999304741099177, 105.85294749849916"
+    },
+    {
+      "name": "Ch\u00E8 Hai L\u00FAa - V\u0129nh Tuy",
+      "address": "C\u1ED9t H10 Ch\u00E2n C\u1EA7u V\u0129nh Tuy, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/che-hai-lua-vinh-tuy",
+      "type": "shopee",
+      "id": 68,
+      "lat-lon": "21.000963912995427, 105.87289385801907"
+    },
+    {
+      "name": "831 Food - M\u00EC Tr\u1ED9n Indomie - Shop Online",
+      "address": "831 (C\u1EEDa H\u00E0ng T\u1EA1p H\u00F3a) B\u1EA1ch \u0110\u1EB1ng, P. B\u1EA1ch \u0110\u1EB1ng, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/831-food-mi-tron-indomie-shop-online",
+      "type": "shopee",
+      "id": 69,
+      "lat-lon": "21.010010241146595, 105.86817912611592"
+    },
+    {
+      "name": "H\u1EA1nh Anh - B\u00FAn \u0110\u1EADu G\u1ED1c \u0110\u1EC1",
+      "address": "238 Minh Khai, P. Minh Khai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/hanh-anh-bun-dau-goc-de",
+      "type": "shopee",
+      "id": 70,
+      "lat-lon": "21.004244860304347, 105.86939958315716"
+    },
+    {
+      "name": "Tr\u00E0 S\u1EEFa Tocotoco - Kim Ng\u01B0u",
+      "address": "274 Kim Ng\u01B0u, P. Qu\u1EF3nh Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tra-sua-tocotoco-kim-nguu",
+      "type": "shopee",
+      "id": 71,
+      "lat-lon": "20.999478173468102, 105.86142649665051"
+    },
+    {
+      "name": "S\u1EEFa Chua M\u00EDt Huy\u1EC1n",
+      "address": "2 Ng\u00F5 G\u1ED1c \u0110\u1EC1, P. Minh Khai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/sua-chua-mit-huyen",
+      "type": "shopee",
+      "id": 72,
+      "lat-lon": "20.99495919603024, 105.85601003897926"
+    },
+    {
+      "name": "Paris - Ti\u1EC7m Tr\u00E0 Chanh - Nguy\u1EC5n \u0110\u00ECnh Chi\u1EC3u",
+      "address": "143 Nguy\u1EC5n \u0110\u00ECnh Chi\u1EC3u, P. L\u00EA \u0110\u1EA1i H\u00E0nh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/paris-tiem-tra-chanh-nguyen-dinh-chieu",
+      "type": "shopee",
+      "id": 73,
+      "lat-lon": "21.010037422986354, 105.8457181254861"
+    },
+    {
+      "name": "C\u01A1m th\u1ED1 Anh Nguy\u1EC5n \u2013 L\u00F2 \u0110\u00FAc",
+      "address": " S\u1ED1 28A L\u00F2 \u0110\u00FAc, P. Ph\u1EA1m \u0110\u00ECnh H\u1ED5, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/com-tho-anh-nguyen-lo-duc",
+      "type": "shopee",
+      "id": 74,
+      "lat-lon": "21.017302442418995, 105.85562571014421"
+    },
+    {
+      "name": "Ch\u00E8 Hai L\u00FAa - Gi\u1EA3i Ph\u00F3ng",
+      "address": "1019A Gi\u1EA3i Ph\u00F3ng, P. Gi\u00E1p B\u00E1t, Ho\u00E0ng Mai, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/che-hai-lua-giai-phong",
+      "type": "shopee",
+      "id": 75,
+      "lat-lon": "20.977334317981942, 105.84136011199219"
+    },
+    {
+      "name": "Ti\u1EC7m C\u01A1m ChisnBa - C\u01A1m Rang Z\u00F2n - Hai B\u00E0 Tr\u01B0ng",
+      "address": "Ng\u00F5 18 Hai B\u00E0 Tr\u01B0ng, P. Tr\u00E0ng Ti\u1EC1n (Trong Ng\u00F5 - C\u1EA1nh ch\u00E8 Chang Hi), Ho\u00E0n Ki\u1EBFm, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tiem-com-chisnba-com-rang-zon-hai-ba-trung",
+      "type": "shopee",
+      "id": 76,
+      "lat-lon": "21.024207514328396, 105.8541379831575"
+    },
+    {
+      "name": "B\u1EBFp M\u1EB9 B\u1ED1ng - M\u00EC Tr\u1ED9n Indomie \u0026 \u0110\u1ED3 \u0102n V\u1EB7t",
+      "address": "26 Ng\u00E1ch 56 Ng\u00F5 T\u1EF1 Do, P. Tr\u01B0\u01A1ng \u0110\u1ECBnh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bep-me-bong-mi-tron-indomie-do-an-vat",
+      "type": "shopee",
+      "id": 77,
+      "lat-lon": "20.99814655542184, 105.84699986892407"
+    },
+    {
+      "name": "C\u00F4 H\u1ED3ng - B\u00FAn, Mi\u1EBFn \u0026 B\u00E1nh \u0110a",
+      "address": "Ph\u00F2ng 11 Nh\u00E0 8 T\u1EADp Th\u1EC3 \u0110\u1EA1i H\u1ECDc KTQD, P. \u0110\u1ED3ng T\u00E2m, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/co-hong-bun-mien-banh-da",
+      "type": "shopee",
+      "id": 78,
+      "lat-lon": "20.999392329282625, 105.84657071470677"
+    },
+    {
+      "name": "An Vi\u00EAn - B\u00FAn C\u00E1 Ch\u1EA5m Ph\u1ED1 C\u1ED5 - Amber Riverside",
+      "address": "T\u1EA7ng 1, Amber Riverside, Ng\u00F5 622 Minh Khai, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/an-vien-bun-ca-cham-pho-co-amber-riverside",
+      "type": "shopee",
+      "id": 79,
+      "lat-lon": "20.997399043146707, 105.87108205247276"
+    },
+    {
+      "name": "B\u00E1nh M\u00EC Chy - Doner Kebab \u0026 Tr\u00E0 C\u00E1c Lo\u1EA1i",
+      "address": "9A1 C\u1EA1nh Ng\u00F5 27 T\u1EA1 Quang B\u1EEDu, P. B\u00E1ch Khoa, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/banh-mi-chy-doner-kebab-tra-cac-loai",
+      "type": "shopee",
+      "id": 80,
+      "lat-lon": "21.002816907452765, 105.84966535676448"
+    },
+    {
+      "name": "Ng\u1ECDc Kem B\u01A1 \u0026 N\u01B0\u1EDBc \u00C9p T\u01B0\u01A1i Nguy\u00EAn Ch\u1EA5t",
+      "address": "59 T\u00F4 Hi\u1EBFn Th\u00E0nh, P. L\u00EA \u0110\u1EA1i H\u00E0nh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/ngoc-kem-bo-nuoc-ep-tuoi-nguyen-chat",
+      "type": "shopee",
+      "id": 81,
+      "lat-lon": "21.01322949542725, 105.84864085432167"
+    },
+    {
+      "name": "Ch\u00E8 Cung \u0110\u00ECnh Hu\u1EBF - B\u1EA1ch Mai",
+      "address": "327 B\u1EA1ch Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/che-cung-dinh-hue-bach-mai",
+      "type": "shopee",
+      "id": 82,
+      "lat-lon": "21.002264431046964, 105.85077608130835"
+    },
+    {
+      "name": "Top One - Nem N\u01B0\u1EDBng Nha Trang",
+      "address": "\u0110\u1ED1i Di\u1EC7n C\u1ED5ng Tr\u01B0\u1EDDng \u0110H Kinh Doanh C\u00F4ng Ngh\u1EC7, Ng\u00F5 124 V\u0129nh Tuy, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/top-one-nem-nuong-nha-trang",
+      "type": "shopee",
+      "id": 83,
+      "lat-lon": "20.99999459163426, 105.87770336781489"
+    },
+    {
+      "name": "M\u1ED9t Bu\u1ED5i S\u00E1ng - 86 Hai B\u00E0 Tr\u01B0ng",
+      "address": "86 Hai B\u00E0 Tr\u01B0ng, P. C\u1EEDa Nam, Ho\u00E0n Ki\u1EBFm, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/mot-buoi-sang-86-hai-ba-trung",
+      "type": "shopee",
+      "id": 84,
+      "lat-lon": "21.027123654456354, 105.84416115247319"
+    },
+    {
+      "name": "Tr\u00E0 S\u1EEFa Tocotoco - Vincom B\u00E0 Tri\u1EC7u",
+      "address": "T\u1EA7ng 5, L5 - 15A - 16 Vincom B\u00E0 Tri\u1EC7u, 191 B\u00E0 Tri\u1EC7u, P. L\u00EA \u0110\u1EA1i H\u00E0nh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tra-sua-tocotoco-vincom-ba-trieu",
+      "type": "shopee",
+      "id": 85,
+      "lat-lon": "21.011039628487836, 105.84967625617045"
+    },
+    {
+      "name": "Khoa Ngan X\u01B0a V\u00E0 Nay - Hai B\u00E0 Tr\u01B0ng",
+      "address": "77 Hai B\u00E0 Tr\u01B0ng, P. C\u1EEDa Nam, Ho\u00E0n Ki\u1EBFm, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/khoa-ngan-xua-va-nay-hai-ba-trung",
+      "type": "shopee",
+      "id": 86,
+      "lat-lon": "21.027690010582255, 105.8418278119932"
+    },
+    {
+      "name": "Quang \u0110\u0103ng - B\u00E1nh Tr\u00E1ng Tr\u1ED9n \u0026 B\u00E1nh Tr\u00E1ng N\u01B0\u1EDBng - Tr\u1EA7n \u0110\u1EA1i Ngh\u0129a",
+      "address": "213 Tr\u1EA7n \u0110\u1EA1i Ngh\u0129a, P. \u0110\u1ED3ng T\u00E2m, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/quang-dang-banh-trang-tron-banh-trang-nuong-tran-dai-nghia",
+      "type": "shopee",
+      "id": 87,
+      "lat-lon": "20.998624741174563, 105.84603755157734"
+    },
+    {
+      "name": "Al Fresco\u0027s - Pizza, M\u1EF3 \u00DD, S\u01B0\u1EDDn, Steak B\u00F2 B\u00EDt T\u1EBFt - Hai B\u00E0 Tr\u01B0ng",
+      "address": "23L Hai B\u00E0 Tr\u01B0ng, P. H\u00E0ng B\u00E0i, Ho\u00E0n Ki\u1EBFm, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/al-fresco-s-hai-ba-trung",
+      "type": "shopee",
+      "id": 88,
+      "lat-lon": "21.024105999814502, 105.8531166389799"
+    },
+    {
+      "name": "Kem B\u01A1 \u0110\u00E0 L\u1EA1t - L\u00EA V\u0103n H\u01B0u",
+      "address": "12A L\u00EA V\u0103n H\u01B0u, P. Phan Chu Trinh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/kem-bo-da-lat-le-van-huu",
+      "type": "shopee",
+      "id": 89,
+      "lat-lon": "21.018388210643813, 105.85436606966408"
+    },
+    {
+      "name": "B\u00FAn C\u00E1 Ph\u01B0\u01A1ng M\u1EADp",
+      "address": "14 Nguy\u1EC5n Th\u01B0\u1EE3ng Hi\u1EC1n, P. Nguy\u1EC5n Du, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bun-ca-phuong-map",
+      "type": "shopee",
+      "id": 90,
+      "lat-lon": "21.019056172976082, 105.84307613125607"
+    },
+    {
+      "name": "Rum - Coffee \u0026 Tea",
+      "address": "40 Th\u1ECBnh Y\u00EAn, P. Ph\u1ED1 Hu\u1EBF, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/rum-coffee-tea",
+      "type": "shopee",
+      "id": 91,
+      "lat-lon": "21.010046467290437, 105.8535883831572"
+    },
+    {
+      "name": "S\u1EEFa Chua D\u1EBBo - 254D Minh Khai",
+      "address": "Ng\u00F5 254D Ng\u00E1ch 54 S\u1ED1 Nh\u00E0 38 Minh Khai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/sua-chua-deo-254d-minh-khai",
+      "type": "shopee",
+      "id": 92,
+      "lat-lon": "20.99329958078975, 105.86035359480155"
+    },
+    {
+      "name": "Thu Nguyen - Pizza 24h - Shop Online",
+      "address": "Ng\u00F5 295 B\u1EA1ch Mai Nh\u00E0 S\u1ED1 8, P. B\u1EA1ch Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/thu-nguyen-pizza-24h-shop-online",
+      "type": "shopee",
+      "id": 93,
+      "lat-lon": "21.002302889618687, 105.85159781199262"
+    },
+    {
+      "name": "G\u00E0 N\u01B0\u1EDBng Lu X \u00D4 - 192 D\u01B0\u01A1ng V\u0103n B\u00E9",
+      "address": "192 D\u01B0\u01A1ng V\u0103n B\u00E9, P. V\u0129nh Ph\u00FA, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/ga-nuong-lu-x-o-192-duong-van-be",
+      "type": "shopee",
+      "id": 94,
+      "lat-lon": "20.996259359837673, 105.8739125254858"
+    },
+    {
+      "name": "Ti\u1EC7m B\u00E1nh M\u00EC Doner Kebab Antony",
+      "address": "74 L\u01B0\u01A1ng Y\u00EAn, P. B\u1EA1ch \u0110\u1EB1ng, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tiem-banh-mi-doner-kebab-antony",
+      "type": "shopee",
+      "id": 95,
+      "lat-lon": "21.010563344533132, 105.86283769480187"
+    },
+    {
+      "name": "Tr\u00E0 S\u1EEFa Tocotoco - TL-K9 Times City",
+      "address": "T\u1EA7ng H\u1EA7m 1, T\u1EA7ng B1, TL - K9 Times City, 458 Minh Khai, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tra-sua-tocotoco-tl-k9-times-city",
+      "type": "shopee",
+      "id": 96,
+      "lat-lon": "20.994943699052914, 105.86779783221638"
+    },
+    {
+      "name": "B\u00FAn Ri\u00EAu \u1ED0c Gia Truy\u1EC1n - 3 Th\u1EC3 Giao",
+      "address": "3A Th\u1EC3 Giao, P. L\u00EA \u0110\u1EA1i H\u00E0nh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bun-rieu-oc-gia-truyen-3-the-giao",
+      "type": "shopee",
+      "id": 97,
+      "lat-lon": "21.015132708861724, 105.84795662733498"
+    },
+    {
+      "name": "Xo\u00E0i, C\u00F3c Bao T\u1EED \u0026 Tr\u00E1i C\u00E2y G\u1ECDt S\u1EB5n - V\u0129nh Tuy",
+      "address": "NT9B Ng\u00F5 124 V\u0129nh Tuy, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/xoai-coc-bao-tu-trai-cay-got-san-vinh-tuy",
+      "type": "shopee",
+      "id": 98,
+      "lat-lon": "20.995565112039035, 105.81616648500577"
+    },
+    {
+      "name": "B\u00E1nh \u0110a Cua C\u00F4 H\u00E0 B\u00E9o",
+      "address": "17 L\u00EA Thanh Ngh\u1ECB, P. B\u1EA1ch Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/banh-da-cua-co-ha-beo",
+      "type": "shopee",
+      "id": 99,
+      "lat-lon": "21.00373916831763, 105.84846811014388"
+    },
+    {
+      "name": "Green Coffee House",
+      "address": "Shophouse T11 Times City, 458 Minh Khai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/green-coffee-house",
+      "type": "shopee",
+      "id": 100,
+      "lat-lon": "20.993517997349283, 105.86849875247266"
+    },
+    {
+      "name": "Ch\u1ECB H\u1EA1nh - X\u00F4i \u0026 B\u00E1nh Cu\u1ED1n N\u00F3ng",
+      "address": "53 Ng\u00F5 T\u1EF1 Do, P. \u0110\u1ED3ng T\u00E2m, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/chi-hanh-xoi-banh-cuon-nong",
+      "type": "shopee",
+      "id": 101,
+      "lat-lon": "20.99746139231953, 105.84637887151243"
+    },
+    {
+      "name": "Bami Sot - B\u00E1nh M\u00EC \u0110en - L\u00F2 \u0110\u00FAc",
+      "address": "138 L\u00F2 \u0110\u00FAc, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bami-sot-banh-mi-den-lo-duc",
+      "type": "shopee",
+      "id": 102,
+      "lat-lon": "21.012877118789792, 105.85825828130858"
+    },
+    {
+      "name": "Trang Juice - Tr\u00E0 \u0026 B\u00E1nh M\u1EF3",
+      "address": "232B L\u1EA1c Trung, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/trang-juice-tra-banh-my",
+      "type": "shopee",
+      "id": 103,
+      "lat-lon": "21.003227204835323, 105.86688156781504"
+    },
+    {
+      "name": "Chi\u1EBFc M\u01A1 Hai B\u00E0 Tr\u01B0ng - Tr\u00E0 \u00D4 Long \u0110\u1EADm V\u1ECB T\u1EEB \u0110\u00E0 L\u1EA1t",
+      "address": "120 Thanh Nh\u00E0n, P. Thanh Nh\u00E0n, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/chiec-mo-hai-ba-trung-tra-o-long-dam-vi-tu-da-lat",
+      "type": "shopee",
+      "id": 104,
+      "lat-lon": "21.002932237201513, 105.85285426966372"
+    },
+    {
+      "name": "C\u01A1m Ngon 67 - B\u1EA1ch Mai",
+      "address": "67 Ng\u00F5 295 B\u1EA1ch Mai, P. B\u1EA1ch Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/com-ngon-67-bach-mai",
+      "type": "shopee",
+      "id": 105,
+      "lat-lon": "21.00201953818223, 105.85270705432161"
+    },
+    {
+      "name": "B\u00E1nh M\u00EC Ch\u1EA3o Th\u00E1i Phi\u00EAn",
+      "address": "13 Th\u00E1i Phi\u00EAn, P. L\u00EA \u0110\u1EA1i H\u00E0nh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/banh-mi-chao-thai-phien",
+      "type": "shopee",
+      "id": 106,
+      "lat-lon": "21.010567551340685, 105.85066356781506"
+    },
+    {
+      "name": "Nem N\u01B0\u1EDBng Nha Trang M\u1ED9c An - Hai B\u00E0 Tr\u01B0ng",
+      "address": "14 Ng\u00E1ch 69B Ng\u00F5 121 Kim Ng\u01B0u, P. Thanh L\u01B0\u01A1ng, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/nem-nuong-nha-trang-moc-an-hai-ba-trung",
+      "type": "shopee",
+      "id": 107,
+      "lat-lon": "21.00627799549036, 105.86303357979166"
+    },
+    {
+      "name": "TOUS les JOURS - Ph\u1ED1 Hu\u1EBF",
+      "address": "123 Ph\u1ED1 Hu\u1EBF, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tous-les-jours-pho-hue",
+      "type": "shopee",
+      "id": 108,
+      "lat-lon": "21.01551150613626, 105.85172929480191"
+    },
+    {
+      "name": "Premier - Coffee \u0026 Tea - H\u01B0\u01A1ng Vi\u00EAn",
+      "address": "56 H\u01B0\u01A1ng Vi\u00EAn, P. \u0110\u1ED3ng Nh\u00E2n, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/premier-coffee-tea-huong-vien",
+      "type": "shopee",
+      "id": 109,
+      "lat-lon": "21.011368459093458, 105.85633743713079"
+    },
+    {
+      "name": "Ti\u1EC7m B\u00E1nh Rapha - Shop Online - Tr\u1EA7n \u0110\u1EA1i Ngh\u0129a",
+      "address": "16 Tr\u1EA7n \u0110\u1EA1i Ngh\u0129a, P. \u0110\u1ED3ng T\u00E2m, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tiem-banh-rapha-shop-online-tran-dai-nghia",
+      "type": "shopee",
+      "id": 110,
+      "lat-lon": "21.002956405089872, 105.84461758315713"
+    },
+    {
+      "name": "Stereo Coffee - Tu\u1EC7 T\u0129nh",
+      "address": "77 Tu\u1EC7 T\u0129nh, P. Nguy\u1EC5n Du, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/stereo-coffee-tue-tinh",
+      "type": "shopee",
+      "id": 111,
+      "lat-lon": "21.0152659391617, 105.84829456966398"
+    },
+    {
+      "name": "The Coffee House - T\u1EA7ng 2, 23M Hai B\u00E0 Tr\u01B0ng",
+      "address": "T\u1EA7ng 2, 23M Hai B\u00E0 Tr\u01B0ng, P. Tr\u00E0ng Ti\u1EC1n, Ho\u00E0n Ki\u1EBFm, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/the-coffee-house-tang-2-23m-hai-ba-trung",
+      "type": "shopee",
+      "id": 112,
+      "lat-lon": "21.024237760474733, 105.85281253343342"
+    },
+    {
+      "name": "Hi\u1EC7u L\u1EF1c - Canh C\u00E1 R\u00F4 \u0110\u1ED3ng H\u01B0ng Y\u00EAn - Hai B\u00E0 Tr\u01B0ng",
+      "address": "39P Hai B\u00E0 Tr\u01B0ng, P. Tr\u1EA7n H\u01B0ng \u0110\u1EA1o, Ho\u00E0n Ki\u1EBFm, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/hieu-luc-canh-ca-ro-dong-hung-yen-hai-ba-trung",
+      "type": "shopee",
+      "id": 113,
+      "lat-lon": "21.02540024037156, 105.84887788315753"
+    },
+    {
+      "name": "B\u1EBFp H\u01B0\u01A1ng - M\u00EC Tr\u1ED9n Indomie, B\u00E1nh B\u1ED9t L\u1ECDc \u0026 X\u00F4i Ngon",
+      "address": "S\u1ED1 4 Ng\u00F5 159 H\u1ED3ng Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bep-huong-mi-tron-indomie-banh-bot-loc-xoi-ngon",
+      "type": "shopee",
+      "id": 114,
+      "lat-lon": "20.999284459679764, 105.85505145432151"
+    },
+    {
+      "name": "Kei K\u00E0 Ph\u00EA",
+      "address": "26 Th\u1EC3 Giao, P. L\u00EA \u0110\u1EA1i H\u00E0nh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/kei-ka-phe",
+      "type": "shopee",
+      "id": 115,
+      "lat-lon": "21.013771610233665, 105.84737402733496"
+    },
+    {
+      "name": "Paris G\u00E2teaux - B\u00E1nh Ng\u1ECDt \u0026 Tr\u00E0 S\u1EEFa - Hai B\u00E0 Tr\u01B0ng",
+      "address": "2A P. Tr\u1EA7n \u0110\u1EA1i Ngh\u0129a, \u0110\u1ED3ng T\u00E2m, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i, Vi\u1EC7t Nam",
+      "link": "https://shopeefood.vn/ha-noi/paris-gateaux-banh-ngot-tra-sua-hai-ba-trung",
+      "type": "shopee",
+      "id": 116,
+      "lat-lon": "21.0040961798304, 105.84487415980692"
+    },
+    {
+      "name": "La C\u00E0 - T\u00E0o Ph\u1EDB, T\u00E0u H\u0169 \u0026 \u0102n V\u1EB7t - Hai B\u00E0 Tr\u01B0ng",
+      "address": "S\u1ED1 7 Ng\u00F5 108 L\u00F2 \u0110\u00FAc, P. \u0110\u1ED3ng Xu\u00E2n, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/la-ca-tao-pho-tau-hu-an-vat-hai-ba-trung",
+      "type": "shopee",
+      "id": 117,
+      "lat-lon": "21.0135217778638, 105.85771623612541"
+    },
+    {
+      "name": "The Pizza Company - \u0110o\u00E0n Tr\u1EA7n Nghi\u1EC7p",
+      "address": "30 \u0110o\u00E0n Tr\u1EA7n Nghi\u1EC7p, P. B\u00F9i Th\u1ECB Xu\u00E2n, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/the-pizza-company-doan-tran-nghiep",
+      "type": "shopee",
+      "id": 118,
+      "lat-lon": "21.01207952736998, 105.84927833897964"
+    },
+    {
+      "name": "Safety - B\u00E1nh M\u00EC \u0026 \u0110\u1ED3 U\u1ED1ng",
+      "address": "18 Ng\u00F5 1 Nguy\u1EC5n Tr\u00E3i, C\u1ED5ng Tr\u01B0\u1EDDng \u0110\u1EA1i H\u1ECDc H\u00E0 N\u1ED9i, P. Trung V\u0103n, Nam T\u1EEB Li\u00EAm, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/safety-banh-mi-do-uong",
+      "type": "shopee",
+      "id": 119,
+      "lat-lon": "20.98782388520148, 105.79691577151227"
+    },
+    {
+      "name": "Ngan Ch\u00E1y T\u1ECFi - Kim Ng\u01B0u",
+      "address": "98 Kim Ng\u01B0u, P. Thanh Nh\u00E0n, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/ngan-chay-toi-kim-nguu",
+      "type": "shopee",
+      "id": 120,
+      "lat-lon": "21.00629431776919, 105.8609493119927"
+    },
+    {
+      "name": "\u0110\u1EA1t Coffee \u0026 Tea - B\u00E0 Tri\u1EC7u",
+      "address": "157 B\u00E0 Tri\u1EC7u, P. L\u00EA \u0110\u1EA1i H\u00E0nh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/dat-coffee-tea-ba-trieu",
+      "type": "shopee",
+      "id": 121,
+      "lat-lon": "21.01564098431417, 105.84907161014424"
+    },
+    {
+      "name": "Som \u0E15\u0E33 Thai - Hai B\u00E0 Tr\u01B0ng H\u00E0 N\u1ED9i",
+      "address": "11B Hai B\u00E0 Tr\u01B0ng, P. Tr\u00E0ng Ti\u1EC1n, Ho\u00E0n Ki\u1EBFm, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/som-%E0%B8%95%E0%B8%B3-thai-hai-ba-trung-ha-noi",
+      "type": "shopee",
+      "id": 122,
+      "lat-lon": "21.023500303085566, 105.85543612363762"
+    },
+    {
+      "name": "Qu\u00E1n C\u01A1m 17 - Gi\u1EA3i Ph\u00F3ng",
+      "address": "17 Ng\u00F5 205 Gi\u1EA3i Ph\u00F3ng, P. \u0110\u1ED3ng T\u00E2m, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/quan-com-17-giai-phong",
+      "type": "shopee",
+      "id": 123,
+      "lat-lon": "21.001150219948254, 105.84219321199254"
+    },
+    {
+      "name": "Rice Home",
+      "address": "28 \u0110\u1EA1i C\u1ED3 Vi\u1EC7t, P. L\u00EA \u0110\u1EA1i H\u00E0nh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/rice-home",
+      "type": "shopee",
+      "id": 124,
+      "lat-lon": "21.009117314924556, 105.84943338130846"
+    },
+    {
+      "name": "Tr\u1EA7n H\u1EB1ng - V\u1ECBt Quay L\u1EA1ng S\u01A1n - Shop Online",
+      "address": "2 \u0110\u01B0\u1EDDng 8 Th\u00E1ng 3, P. Qu\u1EF3nh Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tran-hang-vit-quay-lang-son-shop-online",
+      "type": "shopee",
+      "id": 125,
+      "lat-lon": "21.00032465622372, 105.85930629665047"
+    },
+    {
+      "name": "Qu\u00E1n T\u00FD Qu\u1EADy - B\u00E1ch Khoa",
+      "address": "Pho\u0300ng 101 K7 Ba\u0301ch Khoa, P. B\u00E1ch Khoa, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/quan-ty-quay-bach-khoa",
+      "type": "shopee",
+      "id": 126,
+      "lat-lon": "21.00074605010146, 105.84800206781502"
+    },
+    {
+      "name": "Anh Qu\u00E2n - V\u1ECBt Quay L\u1EA1ng S\u01A1n",
+      "address": "2 Ph\u1ED1 8/3, P. Qu\u1EF3nh Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/anh-quan-vit-quay-lang-son",
+      "type": "shopee",
+      "id": 127,
+      "lat-lon": "21.000553091146607, 105.85907086781498"
+    },
+    {
+      "name": "Kem Swensen\u0027s - Times City",
+      "address": "T\u1EA7ng H\u1EA7m 1, T\u1EA7ng B1 TTTM Times City, 458 Minh Khai, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/kem-swensen-s-times-city",
+      "type": "shopee",
+      "id": 128,
+      "lat-lon": "20.99648562652491, 105.86897172363713"
+    },
+    {
+      "name": "Cafe 65 - T\u00F4 Hi\u1EBFn Th\u00E0nh",
+      "address": "65 T\u00F4 Hi\u1EBFn Th\u00E0nh, P. L\u00EA \u0110\u1EA1i H\u00E0nh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/cafe-65",
+      "type": "shopee",
+      "id": 129,
+      "lat-lon": "21.013419256613258, 105.84809036596643"
+    },
+    {
+      "name": "H\u00F3ng Cafe By Th\u00E0nh - Hai B\u00E0 Tr\u01B0ng",
+      "address": "S\u1ED1 110E7 Ph\u1ED1 Qu\u1EF3nh Mai, P. Quynh Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/hong-cafe-by-thanh-hai-ba-trung",
+      "type": "shopee",
+      "id": 130,
+      "lat-lon": "21.002037186481967, 105.8606344966505"
+    },
+    {
+      "name": "N\u01B0\u1EDBc \u00C9p Healthy - Shop Online",
+      "address": "65 Ng\u00F5 156 D\u01B0\u01A1ng V\u0103n B\u00E9, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/nuoc-ep-healthy-shop-online",
+      "type": "shopee",
+      "id": 131,
+      "lat-lon": "20.99779764106864, 105.87231293897938"
+    },
+    {
+      "name": "Gem - Ti\u1EC7m B\u00E1nh M\u00EC Kim Chi",
+      "address": "174 Tr\u01B0\u01A1ng \u0110\u1ECBnh, P. Tr\u01B0\u01A1ng \u0110\u1ECBnh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/gem-tiem-banh-mi-kim-chi",
+      "type": "shopee",
+      "id": 132,
+      "lat-lon": "21.006044576410194, 105.82655001199277"
+    },
+    {
+      "name": "B\u1EBFp Nh\u00E0 Bizi - L\u1EA9u C\u00E1 T\u1EA7m M\u0103ng Cay - Hai B\u00E0 Tr\u01B0ng",
+      "address": "126 Ph\u1ED1 Ch\u00F9a Qu\u1EF3nh (21 T\u00E2n L\u1EADp C\u0169), P. Qu\u1EF3nh L\u00F4i, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bep-nha-bizi-lau-ca-tam-mang-cay-hai-ba-trung",
+      "type": "shopee",
+      "id": 133,
+      "lat-lon": "21.000488547629804, 105.85804506469124"
+    },
+    {
+      "name": "Ng\u1ECDc Ng\u00E2n - \u0102n V\u1EB7t Online",
+      "address": "203 K11a Nguy\u1EC5n Hi\u1EC1n, P. B\u00E1ch Khoa, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/ngoc-ngan-an-vat-online",
+      "type": "shopee",
+      "id": 134,
+      "lat-lon": "21.00091318001478, 105.84758691384147"
+    },
+    {
+      "name": "C\u01A1m Rang \u0026 Ph\u1EDF G\u00E0 V\u00E2n Th\u1EE7y - L\u00F2 \u0110\u00FAc",
+      "address": "168 L\u00F2 \u0110\u00FAc, P. \u0110\u1ED1ng M\u00E1c, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/com-rang-pho-ga-van-thuy-lo-duc",
+      "type": "shopee",
+      "id": 135,
+      "lat-lon": "21.011835558528563, 105.85891853897961"
+    },
+    {
+      "name": "Ph\u01B0\u01A1ng Doanh Doanh - \u0110\u1ED3 \u0102n V\u1EB7t - Shop Online",
+      "address": "P204 - K11A KTT B\u00E1ch Khoa, Nguy\u1EC5n Hi\u1EC1n, P. B\u00E1ch Khoa, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/phuong-doanh-doanh-do-an-vat-shop-online",
+      "type": "shopee",
+      "id": 136,
+      "lat-lon": "21.000517561557857, 105.84646898740685"
+    },
+    {
+      "name": "C\u00F4 Y\u1EBFn - B\u00E1nh X\u00E8o Nem L\u1EE5i",
+      "address": "38 H\u00E0ng Chu\u1ED1i, P. Ph\u1EA1m \u0110\u00ECnh H\u1ED3, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/co-yen-banh-xeo-nem-lui",
+      "type": "shopee",
+      "id": 137,
+      "lat-lon": "21.015997297326166, 105.85782342918372"
+    },
+    {
+      "name": "M\u00F3n \u0102n V\u1EB7t Online 24h - Shop Online",
+      "address": "P206 K11A Nguy\u1EC5n Hi\u1EC1n, P. B\u00E1ch Khoa, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/mon-an-vat-online-24h-shop-online",
+      "type": "shopee",
+      "id": 138,
+      "lat-lon": "21.00123904612281, 105.84774398512154"
+    },
+    {
+      "name": "G\u00E0 T\u1EA7n C\u00F4 Oanh - B\u1EA1ch Mai",
+      "address": "474 B\u1EA1ch Mai, P. Tr\u01B0\u01A1ng \u0110\u1ECBnh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/ga-tan-co-oanh-bach-mai",
+      "type": "shopee",
+      "id": 139,
+      "lat-lon": "20.997879409863476, 105.84997945432156"
+    },
+    {
+      "name": "Qu\u00E1n B\u00FAn H\u1EA1nh - B\u00FAn, Mi\u1EBFn \u0026 M\u00EC - Hai B\u00E0 Tr\u01B0ng",
+      "address": "7 Ng\u00E1ch 30 Ng\u00F5 176, P. Tr\u01B0\u01A1ng \u0110\u1ECBnh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/quan-bun-hanh-bun-mien-mi-hai-ba-trung.9k1zni",
+      "type": "shopee",
+      "id": 140,
+      "lat-lon": "20.991973249224774, 105.84926191094038"
+    },
+    {
+      "name": "C\u00F4 Ph\u01B0\u01A1ng - \u1ED0c N\u00F3ng \u0026 Ti\u1EBFt Lu\u1ED9c - Ph\u1ED1 8-3",
+      "address": "S\u1ED1 2 Ph\u1ED1 8-3, P. Qu\u1EF3nh Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/co-phuong-oc-nong-tiet-luoc-pho-8-3",
+      "type": "shopee",
+      "id": 141,
+      "lat-lon": "21.00065325305333, 105.85911378315714"
+    },
+    {
+      "name": "B\u00E1nh Bao Long Th\u00E0nh",
+      "address": "70 B\u1EA1ch Mai, P. C\u1EA7u D\u1EC1n, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/banh-bao-long-thanh",
+      "type": "shopee",
+      "id": 142,
+      "lat-lon": "21.007495573974015, 105.85121321014392"
+    },
+    {
+      "name": "Dung B\u1EA1ch Mai - Ph\u1EDF Chuy\u00EAn B\u00F2",
+      "address": "459 B\u1EA1ch Mai, P. Tr\u01B0\u01A1ng \u0110\u1ECBnh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/dung-bach-mai-pho-chuyen-bo",
+      "type": "shopee",
+      "id": 143,
+      "lat-lon": "20.997707244453192, 105.85031861199272"
+    },
+    {
+      "name": "B\u00E1nh \u0110\u00FAc N\u00F3ng Ch\u1EE3 Gi\u1EDDi",
+      "address": "1 Ng\u00F5 31 Y\u00EAn B\u00E1i 2, P. Ph\u1ED1 Hu\u1EBF, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/banh-duc-nong-cho-gioi",
+      "type": "shopee",
+      "id": 144,
+      "lat-lon": "21.009698576705354, 105.85220058130852"
+    },
+    {
+      "name": "Ph\u1EDF Xu\u00E2n - Th\u1ECBnh Y\u00EAn",
+      "address": "38 Th\u1ECBnh Y\u00EAn, P. Ph\u1ED1 Hu\u1EBF, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/pho-xuan-thinh-yen",
+      "type": "shopee",
+      "id": 145,
+      "lat-lon": "21.01009654506621, 105.8535257254862"
+    },
+    {
+      "name": "Qu\u00E1n Ph\u01B0\u01A1ng B\u00E9o - Ph\u1EDF G\u00E0 \u0026 B\u00FAn M\u1ECDc",
+      "address": "Shophouse 12 Park 12 Time City, Minh Khai, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/quan-phuong-beo-pho-ga-bun-moc",
+      "type": "shopee",
+      "id": 146,
+      "lat-lon": "20.992304398897055, 105.86578896596606"
+    },
+    {
+      "name": "G\u00E0 N\u01B0\u1EDBng Lu X \u00D4 - 284 Kim Ng\u01B0u",
+      "address": "284 Kim Ng\u01B0u, P. Qu\u1EF3nh Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/ga-nuong-lu-x-o-284-kim-nguu",
+      "type": "shopee",
+      "id": 147,
+      "lat-lon": "20.999173392351196, 105.86169466966362"
+    },
+    {
+      "name": "B\u1EBFp M\u1EB9 S\u1EEFa - \u0110\u1ED3 \u0102n Healthy \u0026 Eatclean - Shop Online",
+      "address": "23 Ng\u00F5 203/62 H5 Kim Ng\u01B0u, P. Thanh L\u01B0\u01A1ng, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bep-me-sua-do-an-healthy-eatclean-shop-online",
+      "type": "shopee",
+      "id": 148,
+      "lat-lon": "21.001460921302698, 105.86205944990724"
+    },
+    {
+      "name": "Vi\u1EC7t Nguy\u1EC5n Coffee - \u0110\u1EA1i La",
+      "address": "10 Ng\u00F5 35 - 37 \u0110\u1EA1i La, P. Tr\u01B0\u01A1ng \u0110\u1ECBnh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/viet-nguyen-coffee-dai-la",
+      "type": "shopee",
+      "id": 149,
+      "lat-lon": "20.996027442770153, 105.848954583157"
+    },
+    {
+      "name": "Ph\u1EDF Tu\u1EA5n H\u1EA3o",
+      "address": "116 ( \u0110\u1ED1i Di\u1EC7n S\u1ED1 74 Ph\u1ED1 Th\u1ECD L\u00E3o ) T\u1EADp Th\u1EC3 Nh\u00E0 M\u00E1y R\u01B0\u1EE3u Th\u1ECD L\u00E3o, P. \u0110\u1ED3ng Nh\u00E2n, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/pho-tuan-hao",
+      "type": "shopee",
+      "id": 150,
+      "lat-lon": "21.02417029642932, 105.82843897120371"
+    },
+    {
+      "name": "B\u00E1nh \u0110\u00FAc N\u00F3ng \u0026 T\u00E0o Ph\u1EDB Ch\u1EE3 M\u01A1",
+      "address": "Ng\u00F5 3 Minh Khai, P. Tr\u01B0\u01A1ng \u0110\u1ECBnh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/banh-duc-nong-tao-pho-cho-mo",
+      "type": "shopee",
+      "id": 151,
+      "lat-lon": "20.99553050890911, 105.85327540404536"
+    },
+    {
+      "name": "Thoa B\u00FAn Mi\u1EBFn - B\u1EA1ch Mai",
+      "address": "244 B\u1EA1ch Mai, P. B\u1EA1ch Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/thoa-bun-mien-bach-mai",
+      "type": "shopee",
+      "id": 152,
+      "lat-lon": "21.002879037258698, 105.85043096596623"
+    },
+    {
+      "name": "Canh C\u00E1 R\u00F4 \u0110\u1ED3ng Truy\u1EC1n Th\u1ED1ng H\u01B0ng Y\u00EAn",
+      "address": "83 B\u00F9i Ng\u1ECDc D\u01B0\u01A1ng, P. B\u1EA1ch Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/canh-ca-ro-dong-truyen-thong-hung-yen",
+      "type": "shopee",
+      "id": 153,
+      "lat-lon": "20.999586357066633, 105.85303548130831"
+    },
+    {
+      "name": "Ch\u00E8 Kh\u00FAc B\u1EA1ch B\u1EBFp Nh\u00E0 Sam - Shop Online - 8 Th\u00E1ng 3",
+      "address": "58 Ng\u00F5 77 \u0110\u01B0\u1EDDng 8 Th\u00E1ng 3, P. Minh Khai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bep-nha-sam-che-khuc-bach-online-8-thang-3",
+      "type": "shopee",
+      "id": 154,
+      "lat-lon": "20.997894257313536, 105.86010005432152"
+    },
+    {
+      "name": "B\u00FAn Ri\u00EAu Cua \u0110\u1ED3ng - Th\u1EC3 Giao",
+      "address": "9 Th\u1EC3 Giao, P. L\u00EA \u0110\u1EA1i H\u00E0nh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bun-rieu-cua-dong-the-giao",
+      "type": "shopee",
+      "id": 155,
+      "lat-lon": "21.01472964656752, 105.84789721199284"
+    },
+    {
+      "name": "C\u01A1m Ship L\u00E2m Th\u00E0nh - Shop Online",
+      "address": "103 K8 B\u00E1ch Khoa, P. B\u00E1ch Khoa, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/com-ship-lam-thanh-shop-online",
+      "type": "shopee",
+      "id": 156,
+      "lat-lon": "21.00047114259639, 105.84730474082816"
+    },
+    {
+      "name": "Ti\u1EC7m B\u00E1nh An Th\u00E1i",
+      "address": "126 L\u00EA Thanh Ngh\u1ECB, P. B\u00E1ch Khoa, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tiem-banh-an-thai",
+      "type": "shopee",
+      "id": 157,
+      "lat-lon": "21.002157221937512, 105.84565116781494"
+    },
+    {
+      "name": "Qu\u00E1n H\u1ED3ng Ph\u00E1t - C\u01A1m \u0026 B\u00FAn",
+      "address": "8 Ng\u00F5 205 Gi\u1EA3i Ph\u00F3ng, P. \u0110\u1ED3ng T\u00E2m, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/quan-hong-phat-com-bun",
+      "type": "shopee",
+      "id": 158,
+      "lat-lon": "21.00112017148333, 105.84210738130824"
+    },
+    {
+      "name": "M\u00E8 B\u00E9o - Ngao \u1ED0c \u0026 \u0102n V\u1EB7t",
+      "address": "2 Ng\u00F5 190 L\u00F2 \u0110\u00FAc, P. \u0110\u00F4ng M\u00E1c, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/me-beo-ngao-oc-an-vat",
+      "type": "shopee",
+      "id": 159,
+      "lat-lon": "21.010594444497563, 105.85844725432177"
+    },
+    {
+      "name": "B\u1EBFp M\u1ECF Kho\u00E9t - \u0110\u1ED3 \u0102n V\u1EB7t",
+      "address": "Kiot 22 Ng\u00F5 124 V\u0129nh Tuy, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bep-mo-khoet-do-an-vat",
+      "type": "shopee",
+      "id": 160,
+      "lat-lon": "21.000748057093904, 105.87695196726281"
+    },
+    {
+      "name": "B\u1EBFp \u0110\u1EE9c Anh - C\u01A1m V\u0103n Ph\u00F2ng",
+      "address": "5 H\u1EBBm 40/30/11 T\u1EA1 Quang B\u1EEDu, P. B\u00E1ch Khoa, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bep-duc-anh-com-van-phong",
+      "type": "shopee",
+      "id": 161,
+      "lat-lon": "21.003952629897146, 105.84759910247293"
+    },
+    {
+      "name": "Cafe Gota",
+      "address": "117 Tr\u1EA7n Kh\u00E1t Ch\u00E2n, P. Thanh L\u01B0\u01A1ng, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/cafe-gota",
+      "type": "shopee",
+      "id": 162,
+      "lat-lon": "21.59344610122687, 105.83573941015419"
+    },
+    {
+      "name": "Tut Noodle - M\u00EC Tr\u1ED9n, C\u01A1m Tr\u1ED9n - Shop Online",
+      "address": "7 Ng\u00E1ch 30 Ng\u00F5 40 T\u1EA1 Quang B\u1EEDu, P. B\u00E1ch Khoa, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tut-noodle-mi-tron-com-tron-shop-online",
+      "type": "shopee",
+      "id": 163,
+      "lat-lon": "21.003602780613726, 105.84664818746924"
+    },
+    {
+      "name": "Qu\u00E1n 512 - Nem Chua N\u01B0\u1EDBng, Tr\u00E0 Chanh \u0026  N\u01B0\u1EDBc \u00C9p",
+      "address": "512 Tr\u1EA7n Kh\u00E1t Ch\u00E2n, P. Ph\u1ED1 Hu\u1EBF, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/quan-512-nem-chua-nuong-tra-chanh-nuoc-ep",
+      "type": "shopee",
+      "id": 164,
+      "lat-lon": "21.009071193141274, 105.85301568315715"
+    },
+    {
+      "name": "B\u1ED1 K\u00E9o Kitchen",
+      "address": "21 Ng\u00F5 30 H\u1ED3ng Mai, P. Tr\u01B0\u01A1ng \u0110\u1ECBnh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bo-keo-kitchen",
+      "type": "shopee",
+      "id": 165,
+      "lat-lon": "20.998624672525015, 105.85095135247278"
+    },
+    {
+      "name": "C\u01A1m T\u1EA5m \u0110\u1EE9c 79",
+      "address": "23B Ng\u00F5 Th\u00E1i Phi\u00EAn, P. L\u00EA \u0110\u1EA1i H\u00E0nh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/com-tam-duc-79",
+      "type": "shopee",
+      "id": 166,
+      "lat-lon": "21.010055222960233, 105.84990203713083"
+    },
+    {
+      "name": "Ti\u1EBFn Anh - M\u00EC Tr\u1ED9n Indomie \u0026 \u0110\u1ED3 \u0102n V\u1EB7t",
+      "address": "Kiot S\u1ED1 1, E6 Qu\u1EF3nh Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tien-anh-mi-tron-indomie-do-an-vat",
+      "type": "shopee",
+      "id": 167,
+      "lat-lon": "21.001687799163122, 105.86149106080528"
+    },
+    {
+      "name": "Ch\u00FA H\u1EC1 Drink And Yogurt",
+      "address": "4 Ph\u1ED1 Hu\u1EBF, P. Ph\u1ED1 Hu\u1EBF, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/chu-he-drink-and-yogurt",
+      "type": "shopee",
+      "id": 168,
+      "lat-lon": "21.019913338208497, 105.85194909849959"
+    },
+    {
+      "name": "G\u00E0 T\u1EA7n \u0026 B\u00E1nh Cu\u1ED1n N\u00F3ng - L\u1EA1c Trung",
+      "address": "198 L\u1EA1c Trung, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/ga-tan-banh-cuon-nong-lac-trung",
+      "type": "shopee",
+      "id": 169,
+      "lat-lon": "21.003286204779627, 105.86564845432153"
+    },
+    {
+      "name": "M\u00E8o \u00DA - \u0110\u1ED3 \u0102n V\u1EB7t \u0110\u00EAm - Shop Online",
+      "address": "206 Ng\u00E1ch 7 Ng\u00F5 61/7 L\u1EA1c Trung, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/meo-u-do-an-vat-dem-shop-online",
+      "type": "shopee",
+      "id": 170,
+      "lat-lon": "21.003598590281502, 105.8607223116297"
+    },
+    {
+      "name": "B\u00FAn B\u00F2 Linh Chi - Shop Online",
+      "address": "1D1 Ng\u00F5 190 L\u00F2 \u0110\u00FAc, P. \u0110\u1ED1ng M\u00E1c, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bun-bo-linh-chi-shop-online",
+      "type": "shopee",
+      "id": 171,
+      "lat-lon": "21.010924806162745, 105.85957036411753"
+    },
+    {
+      "name": "B\u1EBFp H\u00E0 Phong - B\u00FAn \u0110\u1EADu M\u1EB9t",
+      "address": "97 Ng\u00F5 53 Quan Nh\u00E2n, P. Trung H\u00F2a, C\u1EA7u Gi\u1EA5y, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bun-dau-met-vinh-tuy",
+      "type": "shopee",
+      "id": 172,
+      "lat-lon": "21.00597834976901, 105.81304678130843"
+    },
+    {
+      "name": "Nh\u00E3 - N\u01B0\u1EDBc \u00C9p \u0026 Sinh T\u1ED1 Hoa Qu\u1EA3",
+      "address": "26 L\u00EA Qu\u00FD \u0110\u00F4n, P. B\u1EA1ch \u0110\u1EB1ng, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/nha-nuoc-ep-sinh-to-hoa-qua",
+      "type": "shopee",
+      "id": 173,
+      "lat-lon": "21.013429002629913, 105.86115638130852"
+    },
+    {
+      "name": "La Pomme - Ti\u1EC7m B\u00E1nh Ng\u1ECDt Ph\u00E1p - Shop Online",
+      "address": "104A2 T\u1EADp Th\u1EC3 Ng\u00F5 29 L\u1EA1c Trung, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/la-pomme-tiem-banh-ngot-phap-shop-online",
+      "type": "shopee",
+      "id": 174,
+      "lat-lon": "21.001930122166332, 105.86548141199266"
+    },
+    {
+      "name": "Furin Coffee",
+      "address": "S\u1ED1 5 Ng\u00F5 84 Tr\u1EA7n \u0110\u1EA1i Ngh\u0129a, P. \u0110\u1ED3ng T\u00E2m, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/furin-coffee",
+      "type": "shopee",
+      "id": 175,
+      "lat-lon": "20.998729894799943, 105.84541888130839"
+    },
+    {
+      "name": "B\u00FAn \u0110\u1EADu C\u00F4 Beo - B\u1EA1ch Mai",
+      "address": "427B B\u1EA1ch Mai, P. Tr\u01B0\u01A1ng \u0110\u1ECBnh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bun-dau-co-beo-bach-mai",
+      "type": "shopee",
+      "id": 176,
+      "lat-lon": "21.0431141740706, 105.8387468236379"
+    },
+    {
+      "name": "Linh Anh - \u0110\u1ED3 \u0102n V\u1EB7t",
+      "address": "55 Ng\u00E1ch 34/55 V\u0129nh Tuy, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/linh-anh-do-an-vat",
+      "type": "shopee",
+      "id": 177,
+      "lat-lon": "21.000094805197957, 105.87307745432155"
+    },
+    {
+      "name": "Korea House - \u0110\u1ED3 \u0102n H\u00E0n Qu\u1ED1c V\u00E0 C\u01A1m Tr\u1ED9n - Ng\u00F5 Ch\u00F9a Li\u00EAn Ph\u00E1i",
+      "address": "59 Ng\u00F5 Ch\u00F9a Li\u00EAn Ph\u00E1i, P. C\u1EA7u D\u1EC1n, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/korea-house-do-an-han-quoc-va-com-tron-ngo-chua-lien-phai",
+      "type": "shopee",
+      "id": 178,
+      "lat-lon": "21.005718219070925, 105.8501537654143"
+    },
+    {
+      "name": "H\u1EA3i S\u1EA3n V\u1EA1n Ch\u00E0i - Shop Online",
+      "address": "478 Minh Khai, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/hai-san-van-chai-shop-online",
+      "type": "shopee",
+      "id": 179,
+      "lat-lon": "20.997744893598494, 105.86693431384141"
+    },
+    {
+      "name": "M\u00F3n Ngon M\u1EB9 N\u1EA5u - V\u00E2n \u0110\u1ED3n - Shop Online",
+      "address": "3C Ng\u00F5 49 V\u00E2n \u0110\u1ED3n, P. B\u1EA1ch \u0110\u1EB1ng, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/mon-ngon-me-nau-van-don-shop-online",
+      "type": "shopee",
+      "id": 180,
+      "lat-lon": "21.014311788972808, 105.86365861624242"
+    },
+    {
+      "name": "Checkin - Coffee \u0026 Fast Food",
+      "address": "155 Tri\u1EC7u Vi\u1EC7t V\u01B0\u01A1ng, P. Nguy\u1EC5n Du, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/checkin-coffee-fast-food",
+      "type": "shopee",
+      "id": 181,
+      "lat-lon": "21.012642265331955, 105.85046668130853"
+    },
+    {
+      "name": "C\u00E2y B\u00E0ng 33 - B\u00FAn Ch\u1EA3 \u0026 B\u00FAn \u0110\u1EADu",
+      "address": "38 Th\u1ECBnh Y\u00EAn, P. Ph\u1ED1 Hu\u1EBF, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/cay-bang-33-bun-cha-bun-dau",
+      "type": "shopee",
+      "id": 182,
+      "lat-lon": "20.99636600914763, 105.84696099665054"
+    },
+    {
+      "name": "Heo Heo - Ti\u1EC7m Ch\u00E8 \u0026 \u0102n V\u1EB7t - Shop Online",
+      "address": "Chung C\u01B0 Handico 5, Ng\u00F5 622 Minh Khai, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/heo-heo-tiem-che-an-vat-shop-online",
+      "type": "shopee",
+      "id": 183,
+      "lat-lon": "20.99584366047969, 105.87080642548602"
+    },
+    {
+      "name": "B\u00F9m Qu\u00E1n - Ch\u00E2n G\u00E0, C\u00E1nh G\u00E0 \u0026 \u0110\u1ED3 \u0102n V\u1EB7t",
+      "address": "28 Ng\u00F5 156 H\u1ED3ng Mai, P. B\u1EA1ch Mai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bum-quan-chan-ga-canh-ga-do-an-vat",
+      "type": "shopee",
+      "id": 184,
+      "lat-lon": "20.998086458778698, 105.85281718315699"
+    },
+    {
+      "name": "B\u1EAFc Qu\u00E1n - Chuy\u00EAn Ngan G\u00E0 V\u1ECBt",
+      "address": "16 Ng\u00F5 124 V\u0129nh Tuy, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bac-quan-chuyen-ngan-ga-vit",
+      "type": "shopee",
+      "id": 185,
+      "lat-lon": "21.00097740956882, 105.87613265967185"
+    },
+    {
+      "name": "B\u00FAn \u0110\u1EADu B\u00E1ch Kinh X\u00E2y",
+      "address": "7 T\u1EA1 Quang B\u1EEDu ( KTX B3 B\u00E1ch Khoa), P. B\u00E1ch Khoa, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bun-dau-bach-kinh-xay",
+      "type": "shopee",
+      "id": 186,
+      "lat-lon": "21.00564470256181, 105.8472412254861"
+    },
+    {
+      "name": "Ti\u1EC7m B\u00E1nh C\u00F4 Linh",
+      "address": "30 Ng\u00E1ch 14 Ng\u00F5 124 Minh Khai, P. Minh Khai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tiem-banh-co-linh",
+      "type": "shopee",
+      "id": 187,
+      "lat-lon": "20.996233433781853, 105.85520959178831"
+    },
+    {
+      "name": "L\u00F9n Qu\u00E1n - \u0110\u1ED3 \u0102n V\u1EB7t - Shop Online",
+      "address": "145 Mai H\u1EAFc \u0110\u1EBF, P. L\u00EA \u0110\u1EA1i H\u00E0nh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/lun-quan-do-an-vat-shop-online",
+      "type": "shopee",
+      "id": 188,
+      "lat-lon": "21.011194674795632, 105.85097085247303"
+    },
+    {
+      "name": "MiSo - Ti\u1EC7m \u0102n V\u1EB7t",
+      "address": "58 Ng\u00F5 172 H\u1ED3ng Mai, P. Qu\u1EF3nh L\u00F4i, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/miso-tiem-an-vat",
+      "type": "shopee",
+      "id": 189,
+      "lat-lon": "21.002278470083464, 105.80313413897952"
+    },
+    {
+      "name": "Zetki - Drink \u0026 Fruit - Shop Online",
+      "address": "1A H\u1EBBm 18 Ng\u00E1ch 15 Ng\u00F5 G\u1ED1c \u0110\u1EC1, P. Minh Khai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/zetki-drink-fruit-shop-online",
+      "type": "shopee",
+      "id": 190,
+      "lat-lon": "20.993253747545417, 105.8545483818604"
+    },
+    {
+      "name": "C\u00F4 Khanh - B\u00FAn C\u00E1",
+      "address": "101A K3 B\u00E1ch Khoa, Ng\u00F5 48 T\u1EA1 Quang B\u1EEDu, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/co-khanh-bun-ca",
+      "type": "shopee",
+      "id": 191,
+      "lat-lon": "21.001513818185384, 105.84966869176557"
+    },
+    {
+      "name": "SHIN - C\u01A1m G\u00E0 H\u1EA3i Nam",
+      "address": "35 Th\u00E1i Phi\u00EAn, P. L\u00EA \u0110\u1EA1i H\u00E0nh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/shin-com-ga-hai-nam",
+      "type": "shopee",
+      "id": 192,
+      "lat-lon": "21.010770768474675, 105.84969439665065"
+    },
+    {
+      "name": "B\u00E1nh M\u00EC Ch\u00FA L\u1EE3n",
+      "address": "112 K6A B\u00E1ch Khoa, Ng\u00F5 48 T\u1EA1 Quang B\u1EEDu, P. B\u00E1ch Khoa, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/banh-mi-chu-lon",
+      "type": "shopee",
+      "id": 193,
+      "lat-lon": "21.000997046070033, 105.84896778842737"
+    },
+    {
+      "name": "B\u1EBFp \u1EA4m - \u0102n V\u1EB7t S\u1EA1ch",
+      "address": "Ng\u00E1ch 26 Ng\u00F5 505 Tr\u1EA7n Kh\u00E1t Ch\u00E2n, P. C\u1EA7u D\u1EC1n, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bep-am-an-vat-sach",
+      "type": "shopee",
+      "id": 194,
+      "lat-lon": "21.00836944113574, 105.85231908500602"
+    },
+    {
+      "name": "Ti\u1EC7m C\u00E0 Ph\u00EA Nh\u00E0 B\u00ECnh An",
+      "address": "114 Tr\u1EA7n \u0110\u1EA1i Ngh\u0129a, P. \u0110\u1ED3ng T\u00E2m, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/tiem-ca-phe-nha-binh-an",
+      "type": "shopee",
+      "id": 195,
+      "lat-lon": "20.99711137632855, 105.84573081199274"
+    },
+    {
+      "name": "Qu\u00E1n Ngon C\u00F4 H\u01B0\u01A1ng - \u0102n V\u1EB7t, U\u1ED1ng V\u1EB7t \u0026 Kem T\u01B0\u01A1i - Ho\u00E0 M\u00E3",
+      "address": "40D Ho\u00E0 M\u00E3, P. Ph\u1EA1m \u0110\u00ECnh H\u1ED3, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/quan-ngon-co-huong-an-vat-uong-vat-kem-tuoi-hoa-ma",
+      "type": "shopee",
+      "id": 196,
+      "lat-lon": "21.01603208378853, 105.85471169480195"
+    },
+    {
+      "name": "\u0110\u1EE9c Nguy\u1EC5n - Ngan S\u01B0\u1EDBng \u0026 B\u00FAn H\u1EA3i S\u1EA3n",
+      "address": "13A Nguy\u1EC5n Cao, P. \u0110\u1ED1ng M\u00E1c, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/duc-nguyen-ngan-suong-bun-hai-san",
+      "type": "shopee",
+      "id": 197,
+      "lat-lon": "21.011603248291014, 105.86004151244508"
+    },
+    {
+      "name": "B\u00E1nh Cu\u1ED1n G\u1ED1c \u0110\u1EC1",
+      "address": "2 Ng\u00F5 G\u1ED1c \u0110\u1EC1, P. Minh Khai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/banh-cuon-goc-de",
+      "type": "shopee",
+      "id": 198,
+      "lat-lon": "20.99463761291106, 105.85623282548592"
+    },
+    {
+      "name": "B\u1EBFp An Nguy\u00EAn",
+      "address": "9 Ng\u00F5 61 L\u1EA1c Trung, P. V\u0129nh Tuy, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bep-an-nguyen",
+      "type": "shopee",
+      "id": 199,
+      "lat-lon": "21.002118954175597, 105.86698468500595"
+    },
+    {
+      "name": "\u0110\u1EE9c Long - Beef Steak - Shop Online",
+      "address": "15 Ng\u00F5 20 \u0110\u1EA1i La, P. Tr\u01B0\u01A1ng \u0110\u1ECBnh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/duc-long-beef-steak-shop-online",
+      "type": "shopee",
+      "id": 200,
+      "lat-lon": "20.99577551360144, 105.84844742705876"
+    },
+    {
+      "name": "C\u01A1m Bin",
+      "address": "2 Ng\u00E1ch 98 Ng\u00F5 T\u1EF1 Do, P. \u0110\u1ED3ng T\u00E2m, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/com-bin",
+      "type": "shopee",
+      "id": 201,
+      "lat-lon": "21.00002384736672, 105.8480673236373"
+    },
+    {
+      "name": "B\u00FAn \u0110\u1EADu M\u01A1 L\u00E0ng Ta - Minh Khai",
+      "address": "2B Ng\u00F5 124 Minh Khai, P. Minh Khai, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bun-dau-mo-lang-ta-minh-khai",
+      "type": "shopee",
+      "id": 202,
+      "lat-lon": "20.9960902314825, 105.84807085319152"
+    },
+    {
+      "name": "Qu\u00E0 V\u1EB7t D\u00EC N\u0103m - Minh Khai",
+      "address": "12 Ng\u00F5 622 Minh Khai, Hai B\u00E0 Tr\u01B0ng, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/qua-vat-di-nam-minh-khai",
+      "type": "shopee",
+      "id": 203,
+      "lat-lon": "20.99911625760331, 105.87087179665049"
+    },
+    {
+      "name": "M\u00EC Tr\u1ED9n Indomie Si\u00EAu Ngon",
+      "address": "24 Ng\u00E1ch 35 Ng\u00F5 Gi\u1EBFng M\u1EE9t, P. Tr\u01B0\u01A1ng \u0110\u1ECBnh, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/mi-tron-indomie-sieu-ngon",
+      "type": "shopee",
+      "id": 204,
+      "lat-lon": "20.997968848740452, 105.84930386014389"
+    },
+    {
+      "name": "B\u00FAn Th\u1ECBt N\u01B0\u1EDBng Cindy - Shop Online",
+      "address": "5 Ng\u00F5 70 Ph\u1ED1 8-3, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bun-thit-nuong-cindy-online",
+      "type": "shopee",
+      "id": 205,
+      "lat-lon": "20.99987285924497, 105.85950332363717"
+    },
+    {
+      "name": "B\u00FAn C\u00F4 Nguy\u00EAn - Shop Online",
+      "address": "78 Ng\u00F5 41 Ph\u1ED1 V\u1ECDng, P. \u0110\u1ED3ng T\u00E2m, Hai B\u00E0 Tr\u01B0ng, H\u00E0 N\u1ED9i",
+      "link": "https://shopeefood.vn/ha-noi/bun-co-nguyen-shop-online",
+      "type": "shopee",
+      "id": 206,
+      "lat-lon": "20.998619121556768, 105.84262592363726"
+    },
+    {
+      "name": "Linh - Cari G\u00E0 \u0026 \u0102n V\u1EB7t H\u00E0n Qu\u1ED1c",
+      "address": "88 Tr\u1EA7n \u0110\u1EA1i Ngh\u0129a, P. \u0110\u1ED3ng T\u00E2m, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/linh-cari-ga-an-vat-han-quoc",
+      "type": "foody",
+      "id": 1,
+      "lat-lon": "20.998594158199253, 105.84589839849912"
+    },
+    {
+      "name": "H\u1EC7 th\u1ED1ng Starbucks Coffee - H\u00E0 N\u1ED9i",
+      "address": "3 chi nh\u00E1nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/thuong-hieu/starbucks-coffee-ha-noi?c=ha-noi",
+      "type": "foody",
+      "id": 2,
+      "lat-lon": "21.010782657109665, 105.84879652033756"
+    },
+    {
+      "name": "Sio Sushi - L\u00EA \u0110\u1EA1i H\u00E0nh",
+      "address": "13 L\u00EA \u0110\u1EA1i H\u00E0nh, P. L\u00EA \u0110\u1EA1i H\u00E0nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/sio-sushi-le-dai-hanh",
+      "type": "foody",
+      "id": 3,
+      "lat-lon": "21.009528836510036, 105.85010032363745"
+    },
+    {
+      "name": "Botanica - Salad, Steak \u0026 Pasta - L\u00EA V\u0103n H\u01B0u",
+      "address": "T\u1EA7ng 3, s\u1ED1 21 L\u00EA V\u0103n H\u01B0u, Ph\u1EA1m \u0110\u00ECnh H\u1ED5, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/botanica-salad-steak-pasta-le-van-huu",
+      "type": "foody",
+      "id": 4,
+      "lat-lon": "21.018204475728183, 105.85470231199301"
+    },
+    {
+      "name": "X\u00F4i Th\u01B0\u1EDFng 88 - X\u00F4i Ph\u00FA Th\u01B0\u1EE3ng - Tr\u1EA7n \u0110\u1EA1i Ngh\u0129a",
+      "address": "25 Ng\u00F5 323 Tr\u1EA7n \u0110\u1EA1i Ngh\u0129a, P. Tr\u01B0\u01A1ng \u0110\u1ECBnh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/xoi-thuong-88-xoi-phu-thuong-tran-dai-nghia",
+      "type": "foody",
+      "id": 5,
+      "lat-lon": "21.048013353799085, 105.78999163898027"
+    },
+    {
+      "name": "Gia \u0110\u00ECnh BB - Home Cook",
+      "address": "32 Tri\u1EC7u Vi\u1EC7t V\u01B0\u01A1ng, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/gia-dinh-bb-home-cook",
+      "type": "foody",
+      "id": 6,
+      "lat-lon": "21.017717861103357, 105.85024469665082"
+    },
+    {
+      "name": "H\u1EC7 th\u1ED1ng Ch\u00E1o S\u01B0\u1EDDn S\u1EE5n 88 - Ch\u00E1o Gia Truy\u1EC1n",
+      "address": "2 chi nh\u00E1nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/thuong-hieu/chao-suon-sun-88-chao-gia-truyen?c=ha-noi",
+      "type": "foody",
+      "id": 7,
+      "lat-lon": "20.99481984546643, 105.84685702548599"
+    },
+    {
+      "name": "Sumo BBQ - Nh\u00E0 H\u00E0ng Th\u1ECBt N\u01B0\u1EDBng Nh\u1EADt B\u1EA3n - T\u00F4 Hi\u1EBFn Th\u00E0nh",
+      "address": "67 T\u00F4 Hi\u1EBFn Th\u00E0nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/sumo-bbq-nuong-lau-nhat-ban",
+      "type": "foody",
+      "id": 8,
+      "lat-lon": "21.013406971971747, 105.84799658315734"
+    },
+    {
+      "name": "Spaghetti Box - L\u00EA Ng\u1ECDc H\u00E2n",
+      "address": "49 L\u00EA Ng\u1ECDc H\u00E2n, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/spaghetti-box-le-ngoc-han",
+      "type": "foody",
+      "id": 9,
+      "lat-lon": "21.01609378370567, 105.85550249849949"
+    },
+    {
+      "name": "Bay Coffee \u0026 Tea - Nguy\u1EC5n B\u1EC9nh Khi\u00EAm",
+      "address": "48 Nguy\u1EC5n B\u1EC9nh Khi\u00EAm, P. Nguy\u1EC5n Du, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/bay-coffee-and-tea",
+      "type": "foody",
+      "id": 10,
+      "lat-lon": "21.01462722463089, 105.84826278315727"
+    },
+    {
+      "name": "H\u1EC7 th\u1ED1ng Yu Tang",
+      "address": "3 chi nh\u00E1nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/thuong-hieu/yu-tang?c=ha-noi",
+      "type": "foody",
+      "id": 11,
+      "lat-lon": "21.01132468400637, 105.85301531709841"
+    },
+    {
+      "name": "Nh\u00E0 H\u00E0ng 123 - Ph\u1ED1 Hu\u1EBF",
+      "address": "55 Ph\u1ED1 Hu\u1EBF, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/nha-hang-123-pho-hue",
+      "type": "foody",
+      "id": 12,
+      "lat-lon": "21.018195795904134, 105.85186585617063"
+    },
+    {
+      "name": "B\u00E1nh G\u00E0 Th\u1EA7n Th\u00E1nh - 158 H\u1ED3ng Mai",
+      "address": "11 Ng\u00F5 158 H\u1ED3ng Mai, P. B\u1EA1ch Mai, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/banh-ga-than-thanh-158-hong-mai",
+      "type": "foody",
+      "id": 13,
+      "lat-lon": "20.998546192898726, 105.85292549665046"
+    },
+    {
+      "name": "Ti\u1EC7m G\u00E0 R\u00E1n Signature 19 - Korean Food",
+      "address": "52 B\u00F9i Th\u1ECB Xu\u00E2n, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/tiem-ga-ran-signature-19-korean-food",
+      "type": "foody",
+      "id": 14,
+      "lat-lon": "21.016307144023944, 105.84980556781522"
+    },
+    {
+      "name": "Pasta \u0026 Pizza Capricciosa - Vincom B\u00E0 Tri\u1EC7u",
+      "address": "T\u1EA7ng 5, Vincom Center, 191 B\u00E0 Tri\u1EC7u, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/pasta-pizza-capricciosa-vincom-ba-trieu",
+      "type": "foody",
+      "id": 15,
+      "lat-lon": "21.01107969044304, 105.8495689678151"
+    },
+    {
+      "name": "H\u1EC7 th\u1ED1ng Tr\u00E0 S\u1EEFa Bobapop - H\u00E0 N\u1ED9i",
+      "address": "2 chi nh\u00E1nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/thuong-hieu/tra-sua-bobapop-ha-noi?c=ha-noi",
+      "type": "foody",
+      "id": 16,
+      "lat-lon": "21.008684577999393, 105.85101978315724"
+    },
+    {
+      "name": "B\u00E1nh Cu\u1ED1n B\u00E0 Ho\u00E0nh - T\u00F4 Hi\u1EBFn Th\u00E0nh",
+      "address": "66 T\u00F4 Hi\u1EBFn Th\u00E0nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/banh-cuon-ba-hoanh",
+      "type": "foody",
+      "id": 17,
+      "lat-lon": "21.013816548039575, 105.84948909480197"
+    },
+    {
+      "name": "H\u1EC7 th\u1ED1ng B\u00E1nh Ng\u1ECDt Ph\u00E1p Anh H\u00F2a",
+      "address": "2 chi nh\u00E1nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/thuong-hieu/banh-ngot-phap-anh-hoa?c=ha-noi",
+      "type": "foody",
+      "id": 18,
+      "lat-lon": "21.002523638673107, 105.84488136324329"
+    },
+    {
+      "name": "Don Chicken - Chicken \u0026 Pub - Mai H\u1EAFc \u0110\u1EBF",
+      "address": "97 Mai H\u1EAFc \u0110\u1EBF, P. B\u00F9i Th\u1ECB Xu\u00E2n, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/don-chicken-chicken-pub-mai-hac-de",
+      "type": "foody",
+      "id": 19,
+      "lat-lon": "21.01320069511918, 105.8510410659664"
+    },
+    {
+      "name": "GoGi House - N\u01B0\u1EDBng H\u00E0n Qu\u1ED1c - B\u00F9i Th\u1ECB Xu\u00E2n",
+      "address": "151 B\u00F9i Th\u1ECB Xu\u00E2n, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/gogi-house-nuong-han-quoc-bui-thi-xuan",
+      "type": "foody",
+      "id": 20,
+      "lat-lon": "21.01333760275896, 105.85000389665065"
+    },
+    {
+      "name": "Maison Vie - Nh\u00E0 H\u00E0ng Ki\u1EC3u Ph\u00E1p",
+      "address": "28 T\u0103ng B\u1EA1t H\u1ED5, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/maison-vie-nha-hang-kieu-phap",
+      "type": "foody",
+      "id": 21,
+      "lat-lon": "21.017422651771096, 105.85817878315738"
+    },
+    {
+      "name": "Ph\u1EDF Th\u00ECn - L\u00F2 \u0110\u00FAc",
+      "address": "13 L\u00F2 \u0110\u00FAc, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/pho-thin-lo-duc",
+      "type": "foody",
+      "id": 22,
+      "lat-lon": "21.018281235716977, 105.85529026781533"
+    },
+    {
+      "name": "H\u1EC7 th\u1ED1ng H\u1EE7 Ti\u1EBFu M\u1EF1c Ba Hi\u1EBFu",
+      "address": "2 chi nh\u00E1nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/thuong-hieu/hu-tieu-muc-ba-hieu?c=ha-noi",
+      "type": "foody",
+      "id": 23,
+      "lat-lon": "21.013802848948767, 105.86118332548627"
+    },
+    {
+      "name": "KAMPONG - C\u01A1m g\u00E0 H\u1EA3i Nam - 107 L\u00F2 \u0110\u00FAc",
+      "address": "107 L\u00F2 \u0110\u00FAc, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/kampong-com-ga-hai-nam-107-lo-duc",
+      "type": "foody",
+      "id": 24,
+      "lat-lon": "21.014919239557777, 105.85727329849955"
+    },
+    {
+      "name": "Pizza Dough - Pizza \u0026 Fast Food - Shop Online",
+      "address": "Ng\u00E1ch 1/13 T\u1EA1 Quang B\u1EEDu, P. B\u00E1ch Khoa (\u0110\u1ED1i Di\u1EC7n 69 Ng\u00F5 27 \u0110\u1EA1i C\u1ED3 Vi\u1EC7t), qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/pizza-dough-pizza-fast-food-shop-online",
+      "type": "foody",
+      "id": 25,
+      "lat-lon": "21.00742225366579, 105.84911356596632"
+    },
+    {
+      "name": "L\u1EA9u N\u1EA5m Ashima - Tri\u1EC7u Vi\u1EC7t V\u01B0\u01A1ng",
+      "address": "182 Tri\u1EC7u Vi\u1EC7t V\u01B0\u01A1ng, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/ashima-trieu-viet-vuong",
+      "type": "foody",
+      "id": 26,
+      "lat-lon": "21.01233150417837, 105.85025545247295"
+    },
+    {
+      "name": "Le Jardin - V\u01B0\u1EDDn Salad - La Casa Hanoi Hotel",
+      "address": "T\u1EA7ng 15, La Casa Hanoi Hotel, 17 Ph\u1EA1m \u0110\u00ECnh H\u1ED5, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/le-jardin-restaurant-bar-la-casa-hanoi-hotel",
+      "type": "foody",
+      "id": 27,
+      "lat-lon": "21.043248533852164, 105.84391044082889"
+    },
+    {
+      "name": "B\u00E1nh Tr\u00E1ng Tr\u1ED9n C\u00F4 To\u00E0n",
+      "address": "2A Ng\u00F5 27 Ph\u1ED1 T\u1EA1 Quang B\u1EEDu, P. B\u00E1ch Khoa, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/banh-trang-tron-co-toan",
+      "type": "foody",
+      "id": 28,
+      "lat-lon": "21.002639033917465, 105.84906161014386"
+    },
+    {
+      "name": "Greecy - Coffee \u0026 Cake",
+      "address": "10 Ng\u00F5 84 Tr\u1EA7n \u0110\u1EA1i Ngh\u0129a, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/greecy-coffee-and-cake",
+      "type": "foody",
+      "id": 29,
+      "lat-lon": "20.998901088400917, 105.845480025486"
+    },
+    {
+      "name": "Ch\u00E1o Trai \u0026 Ch\u00E1o H\u1EBFn 88 - Ch\u00E1o Gia Truy\u1EC1n - Shop Online ",
+      "address": "7 Ng\u00F5 624 Ng\u00F5 Minh Khai, P. Minh Khai, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/chao-gia-truyen-chao-trai-chao-hen-88-online",
+      "type": "foody",
+      "id": 30,
+      "lat-lon": "20.999514775781144, 105.87115512363727"
+    },
+    {
+      "name": "Isushi Tri\u1EC7u Vi\u1EC7t V\u01B0\u01A1ng - Nh\u00E0 H\u00E0ng Buffet Nh\u1EADt B\u1EA3n",
+      "address": "158 Tri\u1EC7u Vi\u1EC7t V\u01B0\u01A1ng, P. B\u00F9i Th\u1ECB Xu\u00E2n, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/isushi-buffet-nhat-ban-trieu-viet-vuong",
+      "type": "foody",
+      "id": 31,
+      "lat-lon": "21.013263156801823, 105.85027611199271"
+    },
+    {
+      "name": "H\u1EC7 th\u1ED1ng G\u00E0 R\u00E1n KFC - H\u00E0 N\u1ED9i",
+      "address": "5 chi nh\u00E1nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/thuong-hieu/kfc-ha-noi?c=ha-noi",
+      "type": "foody",
+      "id": 32,
+      "lat-lon": "21.01365342422538, 105.84906370472905"
+    },
+    {
+      "name": "C\u01A1m G\u00E0 Gi\u00F2n Booby - Tr\u1EA7n \u0110\u1EA1i Ngh\u0129a",
+      "address": "28 Ng\u00F5 183 Tr\u1EA7n \u0110\u1EA1i Ngh\u0129a, P. B\u00E1ch Khoa, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/banh-mi-kep-cha-bo-booby-tran-dai-nghia",
+      "type": "foody",
+      "id": 33,
+      "lat-lon": "20.99721715977101, 105.8461167273348"
+    },
+    {
+      "name": "H\u1EC7 th\u1ED1ng Paris G\u00E2teaux",
+      "address": "2 chi nh\u00E1nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/thuong-hieu/paris-gateaux?c=ha-noi",
+      "type": "foody",
+      "id": 34,
+      "lat-lon": "21.00379942912587, 105.84433704569282"
+    },
+    {
+      "name": "H\u1EC7 th\u1ED1ng Tr\u00E0 S\u1EEFa Tocotoco - H\u00E0 N\u1ED9i CT",
+      "address": "24 chi nh\u00E1nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/thuong-hieu/tra-sua-tocotoco-ha-noi-ct?c=ha-noi",
+      "type": "foody",
+      "id": 35,
+      "lat-lon": "21.00121513006163, 105.84676176254051"
+    },
+    {
+      "name": "D\u0169ng B\u00E9o - Nem N\u01B0\u1EDBng Nha Trang, L\u1EA9u \u0026 \u1ED0c N\u00F3ng",
+      "address": "105Y9 - T\u1EADp Th\u1EC3 Kinh T\u1EBF Qu\u1ED1c D\u00E2n, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/dung-beo-lau-nuong-oc-nong",
+      "type": "foody",
+      "id": 36,
+      "lat-lon": "20.99823795979136, 105.84697474511668"
+    },
+    {
+      "name": "Charme Cafe",
+      "address": "50 L\u00F2 \u0110\u00FAc, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/charme-cafe",
+      "type": "foody",
+      "id": 37,
+      "lat-lon": "21.017229206748347, 105.85592069665088"
+    },
+    {
+      "name": "Hoa Vi\u00EAn Brauhaus - T\u0103ng B\u1EA1t H\u1ED5",
+      "address": "1A T\u0103ng B\u1EA1t H\u1ED5, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/hoa-vien-brauhaus-tang-bat-ho",
+      "type": "foody",
+      "id": 38,
+      "lat-lon": "21.017974581177892, 105.85859641014409"
+    },
+    {
+      "name": "Gumiho - Qu\u00E1n Nh\u1EADu Cho C\u00E1c N\u00E0ng",
+      "address": "133 B\u00F9i Th\u1ECB Xu\u00E2n, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/gumiho-grill-shabu-bui-thi-xuan",
+      "type": "foody",
+      "id": 39,
+      "lat-lon": "21.01430443539422, 105.84999368130858"
+    },
+    {
+      "name": "H\u1EC7 th\u1ED1ng Ding Tea - Tr\u00E0 S\u1EEFa \u0110\u00E0i Loan - HN",
+      "address": "7 chi nh\u00E1nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/thuong-hieu/ding-tea-tra-sua-dai-loan-hn?c=ha-noi",
+      "type": "foody",
+      "id": 40,
+      "lat-lon": "21.001599654105146, 105.84547421710008"
+    },
+    {
+      "name": "B\u00E1nh \u0110\u00FAc N\u00F3ng \u0026 Mi\u1EBFn Tr\u1ED9n - L\u00EA Ng\u1ECDc H\u00E2n",
+      "address": "8 Ng\u00F5 8B L\u00EA Ng\u1ECDc H\u00E2n, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/mien-tron-le-ngoc-han",
+      "type": "foody",
+      "id": 41,
+      "lat-lon": "21.016904112837736, 105.85497131014417"
+    },
+    {
+      "name": "H\u1EC7 th\u1ED1ng IT Cream \u0026 Bakery",
+      "address": "2 chi nh\u00E1nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/thuong-hieu/it-cream-bakery?c=ha-noi",
+      "type": "foody",
+      "id": 42,
+      "lat-lon": "21.02351168678607, 105.8573043530142"
+    },
+    {
+      "name": "H\u1EC7 th\u1ED1ng TOUS les JOURS",
+      "address": "2 chi nh\u00E1nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/thuong-hieu/tous-les-jours?c=ha-noi",
+      "type": "foody",
+      "id": 43,
+      "lat-lon": "21.015763902898374, 105.85199951148029"
+    },
+    {
+      "name": "K-Pub - Korean BBQ Garden - Times City",
+      "address": "B1 Times City, 458 Minh Khai, P. V\u0129nh Tuy, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/k-pub-korean-bbq-garden-times-city",
+      "type": "foody",
+      "id": 44,
+      "lat-lon": "20.995861110882696, 105.86858275247266"
+    },
+    {
+      "name": "L\u1EA9u \u00C1nh H\u1ED3ng - Tr\u1EA7n Kh\u00E1t Ch\u00E2n",
+      "address": "434 Tr\u1EA7n Kh\u00E1t Ch\u00E2n, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/lau-anh-hong-tran-khat-chan",
+      "type": "foody",
+      "id": 45,
+      "lat-lon": "21.009619108004586, 105.85541848315732"
+    },
+    {
+      "name": "H\u1EC7 th\u1ED1ng Pizza Hut H\u00E0 N\u1ED9i",
+      "address": "3 chi nh\u00E1nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/thuong-hieu/pizza-hut-ha-noi?c=ha-noi",
+      "type": "foody",
+      "id": 46,
+      "lat-lon": "21.003889752776672, 105.85086940804055"
+    },
+    {
+      "name": "H\u1EC7 th\u1ED1ng Tonchan Ramen",
+      "address": "2 chi nh\u00E1nh, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/thuong-hieu/tonchan-ramen?c=ha-noi",
+      "type": "foody",
+      "id": 47,
+      "lat-lon": "21.015610623573558, 105.84974622363761"
+    },
+    {
+      "name": "H\u00E0 Anh - Nem N\u01B0\u1EDBng Nha Trang - Ng\u00F5 T\u1EF1 Do",
+      "address": "103D1 Ng\u00E1ch 98 Ng\u00F5 T\u1EF1 Do, P. \u0110\u1ED3ng T\u00E2m, qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+      "link": "https://www.foody.vn/ha-noi/ha-anh-nem-nuong-nha-trang-ngo-tu-do",
+      "type": "foody",
+      "id": 48,
+      "lat-lon": "20.99916333905157, 105.84831898685468"
+    }
+  ]
+}
